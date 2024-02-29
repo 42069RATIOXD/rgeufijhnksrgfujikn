@@ -1,6 +1,3 @@
-import time
-import array
-
 print("Input your email name before @: ")
 email = input()
 
